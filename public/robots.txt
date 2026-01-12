@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /invoice-view
+Disallow: /purchase-invoice-view
+Disallow: /account-statement
+
+Sitemap: https://alshwaia.vercel.app/sitemap.xml

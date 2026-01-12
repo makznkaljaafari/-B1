@@ -1,0 +1,48 @@
+{
+  "name": "Copy of Copy of Copy of V1وكالة الشويع للقات - النظام الذكي",
+  "short_name": "الشويع",
+  "description": "نظام محاسبي سحابي متكامل مدعوم بالذكاء الاصطناعي لإدارة مبيعات ومخزون القات.",
+  "lang": "ar-YE",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/628/628283.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/628/628283.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#6366f1",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "categories": [
+    "business",
+    "finance"
+  ],
+  "shortcuts": [
+    {
+      "name": "فاتورة بيع سريعة",
+      "url": "/?page=add-sale",
+      "description": "فتح واجهة إضافة فاتورة بيع فوراً"
+    },
+    {
+      "name": "كشف الحسابات",
+      "url": "/?page=debts",
+      "description": "متابعة المديونيات والميزانية"
+    }
+  ],
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}

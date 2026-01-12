@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Copy of وكالة الشويع للقات - النظام الذكي",
+  "short_name": "الشويع",
+  "description": "نظام محاسبي سحابي متكامل مدعوم بالذكاء الاصطناعي لإدارة مبيعات ومخزون القات.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
